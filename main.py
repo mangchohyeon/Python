@@ -1,4 +1,8 @@
-for i in range(0,31) :
-    if i > 15 :
-        break
-    print(i)
+def add(a,b) :
+    res = a + b
+    return res
+
+A = 1
+for i in range(10) :
+    t = add(A+i)
+    print(t)
