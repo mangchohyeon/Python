@@ -1,6 +1,8 @@
 import pandas as pd
-# 엑셀 파일 읽기 (파일명은 실제 파일명으로 변경)
-infile_path = "wordmaster_2000.xlsx"  # 엑셀 파일 경로 지정
+
+# 엑셀 파일 입력받기 (파일명은 실제 파일명으로 변경)
+print("변환하고 싶은 엑셀파일의 경로를 입력하세요 : ")
+infile_path = str(input())
 df = pd.read_excel(infile_path)  # 엑셀 파일 로드
 
 # 빈 리스트 생성
@@ -20,14 +22,15 @@ for index, row in df.iterrows():
 
 
 #txt파일 작성
-outfile_path = "워드마스터 수능2000.txt"
+print("txt파일로 저장할 파일의 이름을 입력하세요 : ")
+input(outfile_path)
 outfile = open(outfile_path, 'w')
 for line in Lines :
     outfile.write(line)
 
 outfile.close()
 print("파일이 성공적으로 저장되었습니다!")
-print("파일 이름 : '워드마스터 수능 2000.txt'")
+print(f"파일 이름 : {outfile_path}")
 print('')
 print("파일 내용")
 
