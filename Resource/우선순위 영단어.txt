@@ -1,0 +1,1000 @@
+deserve//받을 가치가 있다, ~할 만하다
+survive//살아남다, ~보다 오래살다
+create//창조하다
+describe//묘사하다
+blame//비난하다
+compare//비교하다
+examine//시험하다
+select//고르다
+hesitate//망설이다
+delcare//선언하다
+pretend//~인체하다
+struggle//싸우다, 분투노력하다
+explore//탐험하다
+slip//미끄러지다
+astonish//놀라게하다
+disappoint//실망시키다
+attract//끌다
+celebrate//축하하다
+explode//폭발하다
+include//포함하다
+exclude//제외하다
+protect//보호하다
+introduce//소개하다
+produce//생산하다
+chase//쫓다
+invade//침입하다
+scratch//할퀴다
+crash//충돌하다
+stare//응시하다
+scare//위협하다
+grab//움켜잡다
+gaze//응시하다
+guard//지키다
+discuss//토론하다
+shrug//어깨를 으쓱하다
+sniff//냄새맡다
+scream//날카롭게소리치다
+rid//제거하다
+surround//둘러싸다
+affect//영향을 주다
+carve//새기다
+invent//발명하다
+search//찾다
+abuse//남용하다
+owe//신세를지고있다
+bless//축복하다
+graduate//졸업하다
+replace//제자리에 놓다
+collect//모으다
+arrest//체포하다
+prove//증명하다
+yell//외치다
+leak//새다
+behave//행동하다
+wrap//싸다, 포장하다
+locate//위치하다
+charge//청구하다
+review//복습하다
+refuse//거절하다
+complain//불평하다
+warn//경고하다
+bend//구부리다
+suffer//겪다
+whisper//속삭이다
+prepare//준비하다
+roar//으르렁거리다
+float//뜨다
+drag//질질 끌다
+overhear//엿듣다
+slide//미끄러지다
+suck//빨다
+bother//괴롭히다
+treat//다루다
+destroy//파괴하다
+accept//받아들이다
+depend//~에 의지하다
+nod//끄덕이다
+remove//옮기다, 치우다
+beat//때리다
+clap//(손뼉을)치다
+feed//먹을것을주다
+obtain//얻다
+drown//(물에)빠져죽다
+remind//생각나게하다
+occur//일어나다
+ache//아프다
+repeat//되풀이하다
+sigh//한숨 쉬다
+pray//빌다, 기도하다
+follow//따르다
+hate//미워하다
+frighten//깜짝놀라게하다
+shout//외치다
+mention//말하다
+waste//낭비하다
+borrow//빌리다
+complete//완성하다
+earn//일하여 벌다
+exist//존재하다
+boast//자랑하다
+culture//문화
+experience//경험
+education//교육
+symbol//상징
+effect//결과
+liberty//자유
+affair//사건, 일
+comfort//안락, 위안
+tradition//전통
+source//출처
+revolution//혁명
+pollution//오염
+system//조직, 체계
+triumph//승리
+respect//존경
+communication//전달
+foundation//기초
+glory//영광
+situation//위치, 상황
+competition//경쟁
+effort//노력
+section//부분
+solution//해결
+honor//명예
+unity//통일
+population//인구
+direction//방향
+dialog//대화
+republic//공화국
+method//방법
+increase//증가
+decrease//감소
+amount//총액
+prairie//대초원
+ancestor//조상
+voyage//항해
+sculpture//조각(품)
+sculptor//조각가
+instrument//기구
+activity//활동
+fund//기금
+accident//사고
+adventure//모험
+view//경치
+superstition//미신
+habit//습관
+wealth//재산
+treasure//보물
+universe//우주
+adult//어른
+feast//축제
+resource//자원
+ruin//파멸
+monument//기념비, 기념물
+information//정보
+appetite//식욕
+unification//통일
+mystery//신비
+wage//임금
+thermometer//온도계
+burden//짐
+series//연속
+appointment//임명, 약속
+clue//실마리
+debt//빚
+hydrogen//수소
+oxygen//산소
+control//통제
+uniform//제복
+design//계획, 설계
+damage//손해
+custom//관습
+traffic//교통
+oath//맹세
+sophomore//2학년생
+temperature//온도
+limit//제한
+statue//조각상
+furniture//가구
+parade//행렬
+public//공공의
+pilgrim//순례자
+greeting//인사
+language//언어
+opinion//의견
+athlete//운동선수
+supply//공급
+surface//표면
+electricity//전기
+spirit//정신
+purpose//목적
+passion//열정
+project//계획
+government//정부
+interest//이익, 흥미
+funeral//장례식
+senior//선배
+junior//후배
+democracy//민주주의
+general//장군
+admiral//해군대장
+edge//날
+biology//생물학
+danger//위험
+advice//충고
+mammal//포유동물
+grade//등급, 학년
+pause//중지
+pronunciation//발음
+stress//강조
+contest//경쟁
+horizon//수평선
+principal//교장
+trouble//근심
+scar//상처
+balance//균형
+proverb//속담
+individual//개인
+character//특성, 인격
+environment//환경
+victory//승리
+talent//재주
+semester//학기
+election//선거
+inning//회
+hollow//구덩이
+virtue//미덕, 장점
+cemetery//묘지
+relay//교대
+exchange//교환
+merchant//상인
+saying//격언
+refrigerator//냉장고
+crack//갈라진 금
+judge//재판관
+slave//노예
+settler//이주민
+fare//요금
+gesture//몸짓
+planet//행성
+type//유형
+secretary//비서
+devil//악마
+scholar//학자
+pardon//용서
+kindergarten//유치원
+detective//탐정
+license//면허(증)
+palace//궁전
+spade//삽
+square//정사각형
+fountainpen//만년필
+harvest//수확
+tool//도구
+sword//칼
+magazine//잡지
+stadium//경기장
+care//걱정, 조심
+beauty//아름다움
+museum//박물관
+congratulation//축하
+memory//기억(력)
+delight//기쁨
+passenger//승객
+skill//솜씨
+journey//여행
+ceremony//의식
+hobby//취미
+president//대통령
+address//주소
+continent//대륙
+mankind//인류
+giant//거인
+site//부지, 위치
+marble//대리석
+stem//줄기
+torch//횃불
+composer//작곡가
+trick//계략
+flight//비행
+castle//성
+envelope//봉투
+pal//친구
+vacation//휴가
+desert//사막
+event//사건
+theater//극장
+stage//단계, 무대
+error//잘못
+area//지역
+base//기초
+basement//지하실
+evil//악
+atom//원자
+poet//시인
+mind//마음
+climate//기후
+suburb//교외
+throat//목구멍
+voice//목소리
+valley//골짜기, 계곡
+Puritan//청교도
+feather//깃털
+amateur//아마추어
+nation//국가, 국민
+puzzle//수수께끼
+rear//뒤쪽 / 기르다
+battle//전투
+riddle//수수께끼
+laundry//세탁소
+shower//소나기, 샤워
+navy//해군
+Mars//화성
+gallery//화랑
+guest//손님
+folk//사람들
+problem//문제
+jewel//보석
+garage//차고
+fault//결점
+lantern//랜턴
+import//수입
+export//수출
+angle//각도, 관점
+petal//꽃잎
+stripe//줄무늬
+pulse//맥박
+powder//가루
+flood//홍수
+bush//수풀, 덤불
+branch//가지, 지점
+hero//영웅
+heaven//하늘
+exit//출구
+beast//짐승
+century//세기
+coeducation//남녀공학
+twin//쌍둥이의한사람
+wound//상처, 부상
+metal//금속
+insect//곤충
+track//지나간자국
+excellent//뛰어난, 우수한
+competent//유능한, 충분한
+religious//종교적인
+worth//~의가치가있는
+favorite//아주좋아하는
+upset//기분이상한
+entire//전체의
+primary//주요한, 초보의
+similar//비슷한
+precious//귀중한
+normal//정상의
+relative//상대적인
+popular//인기있는
+compulsory//의무적인
+curious//호기심이강한
+independent//독립의
+intimate//친밀한
+delicious//맛있는
+valuable//귀중한
+grave//중대한
+elementary//초보의
+crazy//미친
+contrary//반대의
+regular//규칙적인
+social//사회의
+straight//똑바른
+noble//고귀한
+anxious//걱정되는
+international//국제적인
+greedy//탐욕스러운
+stupid//어리석은
+silly//어리석은
+lonely//고독한
+dirty//더러운
+various//여러가지의
+private//개인의
+vain//헛된
+sore//아픈
+fierce//사나운, 맹렬한
+firm//굳은, 견고한
+solar//태양의
+smart//멋진
+single//단 하나의
+diligent//부지런한
+serious//진지한, 중대한
+fresh//새로운, 신선한
+empty//빈
+mild//온화한, 상냥한
+amazing//놀라운
+charming//매력적인
+boring//지루한
+patient//참을성 있는 / 환자
+huge//거대한
+tiny//아주 작은
+tough//단단한, 질긴
+foreign//외국의
+modern//현대의
+expensive//값비싼
+harmful//해로운
+calm//평온한
+special//특별한
+familiar//친한
+nervous//신경질적인
+brave//용감한
+steady//확고한, 한결같은
+except//~을 제외하고는
+hardly//거의~아니다
+otherwise//다른 경우라면
+however//아무리~해도
+together//함께
+ahead//앞에, 앞으로
+instead//그 대신에
+quite//매우, 아주
+almost//거의
+forward//앞으로, 앞쪽에
+since//~이래
+once//한 번, 한때
+whether//~인지 어떤지
+unless//~하지 않으면
+though//비록~이지만
+while//~하는 동안
+usually//보통, 대개
+along//~을 따라서
+without//~없이
+behind//~의 뒤에
+beyond//~의 저쪽에
+below//~의 아래에
+toward//~ 쪽으로
+explain//설명하다
+wear//입다, 착용하다
+amuse//즐겁게 하다, 웃기다
+suppose//가정하다, 상상하다
+leap//뛰다
+bury//묻다
+engage//약속하다, 고용하다
+sow//씨를 뿌리다
+lift//들어 올리다
+bow//머리를 숙이다
+rub//비비다
+bite//물다
+vote//투표하다
+hop//뛰다
+imagine//상상하다, 생각하다
+allow//허락하다
+offer//제공하다
+wish//원하다
+obey//복종하다
+dig//파다
+choose//고르다, 선택하다
+receive//받다
+bet//(돈을) 걸다
+hurt//상처를 입히다
+burn//타다, 태우다
+sink//가라앉다
+decide//결정하다
+beg//구걸하다
+reply//대답하다
+tear//찢다
+flow//흐르다
+remember//기억하다
+appear//나타나다, ~인것같다
+breathe//호흡하다
+whistle//휘파람을불다
+continue//계속하다
+check//저지하다, 대조하다
+sail//항해하다
+wake//깨다, 깨우다
+agree//동의하다
+hang//걸다, 매달다
+record//기록하다
+drop//떨어지다
+climb//기어오르다
+add//더하다
+shine//빛나다
+invite//초대하다
+join//결합하다, 참가하다
+hide//숨기다
+bring//가져오다
+wink//눈을 깜박이다
+roll//구르다, 굴리다
+pull//끌다, 당기다
+push//밀다
+guess//추측하다
+belong//~에 속하다
+happen//일어나다, 생기다
+pick//고르다, 따다, 줍다
+shake//흔들다, 떨다
+fill//채우다, 가득차다
+fight//싸우다
+fear//두려워하다
+carry//나르다, 운반하다
+dive//(물속으로)뛰어들다
+win//이기다, 얻다
+ride//타다
+need//필요로하다
+build//짓다
+hurry//서두르다
+return//돌아가다[오다]
+believe//믿다
+surprise//놀라게하다
+gather//모으다
+throw//던지다
+smell//냄새맡다
+spend//소비하다, 지내다
+pitch//던지다
+pop//펑하고 소리나다
+excuse//용서하다, 변명하다
+hit//치다
+tie//매다, 묶다
+stay//머무르다
+enjoy//즐기다
+close//닫다, (눈을)감다
+arrive//도착하다
+travel//여행하다
+worry//걱정하다
+marry//결혼하다
+expect//기대하다
+understand//이해하다
+dye//물들이다
+smoke//담배 피우다
+lend//빌려주다
+shut//닫다
+sleep//자다
+lay//놓다, 눕히다
+paint//그리다
+spell//철자를 쓰다
+sell//팔다, 팔리다
+invest//투자하다, 부여하다
+seek//찾다, 구하다
+broadcast//방송하다
+cure//치료하다, 고치다
+howl//짖다, 울부짖다
+halt//멈추다
+joy//기쁨
+revival//부활
+million//백만, 다수
+crop//농작물, 수확
+shade//그늘
+canal//운하
+wagon//짐마차
+fact//사실
+concert//음악회
+rule//규칙, 습관
+suitcase//여행가방
+weight//무게, 중량
+hurrah//만세
+mail//우편(물)
+hay//건초
+log//통나무
+hut//오두막집
+tax//세금
+lesson//학과, 수업, 교훈
+flame//불꽃
+shape//모양
+chest//가슴
+chain//사슬
+coast//해안
+circle//원, 집단
+heart//심장, 마음
+fever//열, 열병
+trust//신용, 신뢰
+whisker//구레나룻
+prison//감옥
+blood//피, 혈액
+loaf//빵 한 덩어리
+list//명부, 목록
+fence//울타리
+enemy//적
+thief//도둑
+data//자료
+soldier//군인, 병사
+musician//음악가
+capital//수도, 자본
+course//진로, 과정
+diary//일기
+squirrel//다람쥐
+dawn//새벽
+shadow//그림자
+ditch//도랑
+crew//승무원
+stomach//위
+neighbor//이웃 사람
+servant//하인
+hunger//굶주림
+tomb//무덤, 묘
+taste//맛, 취미
+sign//신호, 기호
+stair//계단
+trip//여행
+brain//뇌
+trumpet//나팔
+speech//말, 연설
+thumb//엄지손가락
+horn//뿔, 경적
+chief//우두머리
+trousers//바지
+prince//왕자
+force//힘, 폭력, 병력
+sight//광경, 시력, 경치
+space//공간, 우주
+wool//양모
+expressway//고속도로
+science//과학
+examination//시험, 조사, 검사
+jar//항아리
+salt//소금
+death//죽음, 사망
+saw//톱
+swing//그네, 진동
+alarm//놀람, 경보
+grain//곡식, 낟알
+eraser//지우개
+alphabet//알파벳, 문자
+shoulder//어깨
+nephew//조카
+niece//조카딸
+library//도서관
+factory//공장
+giraffe//기린
+hawk//매
+pigeon//비둘기
+bowl//사발, 그릇
+scene//장면, 현장
+life//생명, 생활, 일생
+earth//지구, 땅, 흙
+pill//알약
+math//수학
+ocean//대양
+price//값, 가격
+row//줄, 열
+schedule//예정(표)
+machine//기계
+route//길
+ivy//담쟁이덩굴
+candle//양초
+joke//농담
+corn//곡물
+pet//애완동물
+robber//강도
+cheek//뺨, 볼
+clerk//사무원, 점원
+cookie//쿠키
+army//육군,군대
+nurse//간호사
+master//주인
+lock//자물쇠
+moment//순간
+sheet//(침대)시트, (종이)한장
+monk//승려
+teenager//십대
+closet//벽장
+handle//손잡이
+guide//안내자, 안내서
+bar//막대기, 빗장
+ostrich//타조
+knee//무릎
+cricket//크리켓(경기)
+deck//갑판
+bit//조금, 작은 조각
+silk//비단
+jean//진(옷감)
+cotton//솜, 목화
+drum//북
+sand//모래
+shock//충격
+march//행진(곡)
+cage//새장, 우리
+whole//전부
+change//변화, 교환, 잔돈
+department//부, 국, (백화점)매장
+office//사무실, 회사
+ticket//표, 입장권
+energy//힘, 정력, 활기
+idea//생각, 이념
+hospital//병원
+noise//소음, 소리
+sample//견본, 샘플
+example//예, 보기
+plenty//풍부, 많음
+luck//행운
+comedy//희극, 코미디
+health//건강
+history//역사
+forest//숲
+stream//흐름, 시내
+future//미래
+state//상태, 주, 국가
+temple//절, 사원
+dictionary//사전
+grammar//문법
+college//단과대학, 전문학교
+husband//남편
+daughter//딸
+captain//우두머리, 선장, 주장
+booth//작은 방, 오두막집
+iceberg//빙산
+bubble//거품
+bottom//밑바닥, 밑
+prize//상, 상품
+bean//콩
+engineer//기사, 기술자
+photographer//사진사
+subway//지하도, 지하철
+fog//안개
+answer//대답
+dining room//식당
+step//걸음, 한 걸음
+heat//열, 더위
+bone//뼈
+lamb//새끼양
+rate//비율, 속도, 요금
+report//보고(서)
+turtle//거북, 바다거북
+bay//만
+holiday//휴일, 휴가
+center//중심, 중심지
+cash//현금
+wolf//늑대
+operator//기사, 교환수
+fur//부드러운털, 모피
+shore//물가, 해안
+owl//올빼미
+hunter//사냥꾼
+pumpkin//호박
+handshake//악수
+bike//자전거
+beach//해안
+God//신
+cough//기침
+shell//껍질, 조개
+business//사업, 일, 사무
+restaurant//식당
+sheep//양
+officer//공무원, 장교
+hometown//고향
+coil//감긴 것, (전기)코일
+ceiling//천장
+turkey//칠면조
+towel//수건, 타월
+chopstick//젓가락
+seat//좌석 / 앉히다
+board//판자, 뱃전
+goal//목표, 골
+drugstore//약국
+rat//쥐
+butterfly//나비
+flute//플루트, 피리
+couple//한 쌍, 부부
+beer//맥주
+background//배경
+bottle//병
+body//몸, 신체
+group//집단, 무리
+village//마을
+beef//쇠고기
+load//짐, 부담
+coin//동전, 화폐
+bookstore//서점
+label//꼬리표, 라벨, 상표
+port//항구
+sunrise//해돋이, 일출
+sunshine//햇빛
+wedding//결혼식, 결혼
+crown//왕관
+seed//씨
+coal//석탄
+comb//빗
+dream//꿈
+sugar//설탕
+mile//마일
+flashlight//(카메라의)플래시, 손전등
+vegetable//채소, 야채
+mouse//생쥐
+wood//나무
+war//전쟁
+belt//허리띠
+tourist//관광객, 여행자
+airport//공항
+passport//여권
+plate//접시
+stone//돌
+downtown//도심지, 번화가
+cousin//사촌
+tooth//이, 치아
+potato//감자
+blanket//담요
+attention//주의, 주목
+nail//손톱, 발톱
+letter//편지, 문자
+beggar//거지
+bedside//침대 곁
+deer//사슴
+bill//계산서, 지폐
+doll//인형
+pepper//후추
+frog//개구리
+tower//탑
+bridge//다리
+cloth//천, 직물
+post//우편(물)
+snake//뱀
+job//직업, 일
+town//읍, 도시, 도회지
+fun//재미, 즐거움
+bathroom//욕실
+tail//꼬리
+mayor//시장
+piece//조각
+fruit//과일
+British//영국의/영국인
+French//프랑스의/프랑스인, 프랑스어
+German//독일의/ 독일인, 독일어
+sale//판매, 염가
+rope//밧줄
+umbrella//우산
+dollar//달러
+mistake//잘못, 착각
+birth//출생
+pilot//조종사, 안내인
+none//아무도[아무것도]~않다
+front//앞부분, 정면
+present//현재, 선물 / 출석한
+nickname//별명, 애칭
+telephone//전화
+pair//한 쌍
+weather//날씨
+word//낱말
+hole//구멍
+plane//비행기
+living room//거실
+gun//총
+meat//고기
+grass//풀, 잔디
+watch//손목시계, 주의
+nap//낮잠
+fantasy//공상, 환상
+harmony//조화, 화합
+soul//영혼, 사람
+kite//연, 솔개(조류)
+ancient//고대의
+nuclear//핵의
+necessary//필요한
+common//공통의, 보통의
+inner//안쪽의
+thirsty//목마른
+thin//얇은, 야윈
+gray//회색의
+famous//유명한
+industrial//산업의, 공업의
+silent//침묵의, 조용한
+absent//결석한
+flat//평평한
+main//주요한
+wild//야생의, 난폭한
+wet//젖은
+blind//눈먼
+dumb//벙어리의
+sharp//날카로운
+terrible//끔찍한, 무서운
+grand//웅장한, 화려한
+homesick//향수병의
+bound//~행의, 
+fat//살찐 / 지방
+strange//이상한, 낯선
+pleasant//즐거운, 유쾌한
+handsome//잘생긴, 멋진
+dear//친애하는, 사랑하는, 값비싼
+sweet//단, 달콤한
+dull//무딘, 우둔한
+weak//약한
+honest//정직한
+elder//손위의, 연상의
+such//구러한, 이러한
+able//~할 수 있는, 유능한
+loud//큰 목소리의, 시끄러운
+simple//단순한, 간단한
+clever//영리한
+proud//자랑스러운, 오만한
+foolish//어리석은
+possible//가능한
+enough//충분한 / 충분히
+wise//현명한
+wide//넓은 / 널리
+successful//성공한
+clear//맑은, 명백한 / 제거하다
+clean//깨끗한
+deep//깊은 / 깊게
+cheap//값싼
+certain//확실한, 어떤
+important//중요한
+stormy//폭풍의
+TRUE//진실한
+sad//슬픈
+gay//명랑한, 화려한
+merry//즐거운
+colorful//화려한, 다채로운
+wonderful//놀랄 만한, 훌륭한
+peaceful//평화로운
+angry//화난
+dry//마른
+wrong//나쁜, 틀린
+heavy//무거운
+quiet//조용한
+several//여럿의
+alone//홀로, 다만 ~뿐
+crowded//붐비는, 혼잡한
+excited//흥분한
+alive//살아 있는
+brown//갈색의
+different//다른
+difficult//어려운
+interesting//흥미 있는
+unlike//같지 않은 / ~과는 다른
+least//가장 적은, 최소한의
+afraid//무서워하여
+cool//시원한, 냉정한
+kind//친절한 / 종류
+sick//병든, 싫증난
+useless//쓸모없는
+busy//바쁜
+early//이른 / 일찍이
+past//과거의 / 과거 / 지나서
+dark//어두운 / 어둠
+cloudy//흐린, 구름이 많은
+low//낮은 / 낮게
+fancy//멋진, 근사한
+essential//본질적인, 필수의
+native//타고난, 태어난
+sincerely//진심으로
+fortunately//다행히, 운 좋게
+finally//마지막으로, 마침내
+immediately//곧, 즉시
+especially//특히
+else//그 밖에
+actually//실제로, 정말로
+tightly//단단히
+recently//최근에
+rapidly//빨리, 신속히
+politely//공손히
+rudely//무례하게
+further//더 멀리, 게다거 / 더 먼
+frankly//솔직히
+properly//제대로, 적당히
+hastily//급히, 서둘러서
+rather//오히려, 약간
+altogether//전혀, 대체로
+suddenly//갑자기
+mostly//대개, 대부분
+correctly//정확히
+nearly//거의
+badly//나쁘게, 매우, 몹시
+exactly//정확히, 꼭
+apart//떨어져서, 따로
+afterward//후에, 나중에
+later//후에, 나중에
+maybe//아마
+perhaps//아마
+probably//아마
+either//어느 한 쪽의
+neither//~도 …도 아니다
+besides//게다가, 그 밖에/ ~외에는
+anyway//어쨌든, 아무튼
+sometime//언젠가
+twice//두 번
+indeed//참으로
+seldom//좀처럼~않다
+upside down//거꾸로
+rarely//드물게, 좀처럼~하지 않는
+air//공기, 비행기, 방송 / 방송하다
+gift//선물, 타고난 재능
+company//친구, 사귐, 회사
+bear//낳다, 참다, 열매를 맺다 / 곰
+season//계절, 한창때 / 간을 맞추다
+promise//약속(하다) / 가망, 유망
+order//명령(하다), 주문하다 / 순서
+match//성냥, 시합/ 어울리다, 당해내다
+attend//참석하다, 주의하다, 시중들다
+station//역, 서, 소, 국
+nature//자연, 천성, 성질
+party//파티, 일행, 정당
+art//미술, 예술, 기술
+sentence//문장, 판결 / 판결하다, 선고하다
+turn//돌다, 돌리다, 변화하다 / 회전, 차례
+scale//규모, 저울
+tongue//혀, 언어, 말씨
+command//명령(하다), 지휘(하다) / (경치등을)바라보다
+right//오른쪽, 권리, 정의 / 바로
+reason//이유, 이성
+pass//지나가다, 합격하다, 건네주다
+plant//식물, 공장
+notice//예고 / 알아차리다
+part//부분, 역할 / 헤어지다
+deal//다루다, 나눠주다, 거래하다
+press//누르다 / 출판물, 언론계
+reach//도착하다, (손을뻗어)집어주다
+case//상장, 경우, 사건
+end//끝, 목적 / 끝내다
+degree//정도, 학위, 도(온도, 각도)

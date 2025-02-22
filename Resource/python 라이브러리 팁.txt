@@ -1,0 +1,10 @@
+python 라이브러리 팁
+
+python 라이브러리를 import하는 경우에는(예시 : random) 
+1. import random 
+2. from random import *
+
+1번보다 2번이 훨씬 낫다.
+
+그 이유는 1번의 경우에는(예시 : randint) random.randint(a,b) 같은 형태로 사용해야하지만
+2번의 경우에는 randint(a,b) 같은 형태로 사용가능하기 때문이다.

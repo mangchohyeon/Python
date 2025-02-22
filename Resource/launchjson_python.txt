@@ -1,0 +1,10 @@
+{
+      "name": "Python 디버거: 현재 파일",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "cwd" : "C:/Users/PC/Desktop/Coding/Python/Code"
+    },
+
+    
